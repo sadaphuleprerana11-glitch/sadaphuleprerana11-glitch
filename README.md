@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I am passionate about data analytics, machine lear
 To build a career in Data Analytics and Data Science by developing practical solutions through data-driven insights and machine learning.
 
 ### 🤝 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
+ - LinkedIn: [Prerana Sadaphule](https://www.linkedin.com/in/prerana-sadaphule-1a76333a8/)
 - GitHub: [My GitHub Profile](https://github.com/sadaphuleprerana11-glitch)
-
 ---
 ⭐ Thank you for visiting my profile!
